@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - print the size of various types
- * Descaption:lal
+ * Description: llal
  * Return 0 success
  */
 int main(void)
